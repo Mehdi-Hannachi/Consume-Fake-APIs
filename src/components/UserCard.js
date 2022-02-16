@@ -2,7 +2,6 @@ import React from "react";
 import { Button, Card } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import logo from "../assets/logo.png";
-import MyMap from "./MyMap";
 const UserCard = ({
   user: {
     id,
